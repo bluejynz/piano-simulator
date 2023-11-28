@@ -1,4 +1,4 @@
-# Piano Simulator 🕹️
+# Piano Simulator 🎹
 
 ### Made with plain HTML, CSS and JS
 
